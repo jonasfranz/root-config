@@ -35,6 +35,7 @@
     "webpack-dev-server": "^3.10.3"
   },
   "dependencies": {
+    "dogs-example": "file:../dogs-example",
     "single-spa": "^5.3.4"
   }
 }

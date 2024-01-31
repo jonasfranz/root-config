@@ -10,8 +10,8 @@ registerApplication({
 });
 
 registerApplication({
-  name: "@vue-mf/dogs-dashboard",
-  app: () => System.import("@vue-mf/dogs-dashboard"),
+  name: "@orts/sspa",
+  app: () => System.import("@orts/sspa"),
   activeWhen: "/view-doggos",
 });
 
